@@ -1,5 +1,9 @@
-# Stellar parameters 101
+# Optical spectroscopy
 
+## I. Reduction of raw spectra 
+to be updated.
+
+## II. Deriving stellar parameters
 1. Warm-up — some background knowledge about stellar spectra
 1. Doppler effect — measuring stellar radial velocity
 1. Teff, logg & [M/H] — fundamental stellar atmospheric parameters
