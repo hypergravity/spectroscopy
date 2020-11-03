@@ -10,7 +10,7 @@ to be updated.
 1. More elemental abundances*
 1. Basics
     - Linux + Anaconda3 + Jupyter-notebook/Jupyter-Lab
-    - Numeric computing (cross-correlation, convolution, non-linear regression, etc)
+    - Numerical computing (cross-correlation, convolution, non-linear regression, etc)
 1. Required packages: `laspec`, `astroslam` & `regli`
     - `pip install -U git+git://github.com/hypergravity/laspec`
     - `pip install -U git+git://github.com/hypergravity/astroslam`
