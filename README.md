@@ -18,5 +18,7 @@ to be updated.
     
 Practice include
 - [CCF](https://nbviewer.jupyter.org/github/hypergravity/spectroscopy/blob/main/stellar_parameters/demo_ccf/demo_ccf.ipynb)
-- [SLAM](https://github.com/hypergravity/spectroscopy/blob/main/stellar_parameters/demo_slam/demo_slam.ipynb)
+- [SLAM](https://nbviewer.jupyter.org/github/hypergravity/spectroscopy/blob/main/stellar_parameters/demo_slam/demo_slam.ipynb)
 - [Model Fitting](https://nbviewer.jupyter.org/github/hypergravity/spectroscopy/blob/main/stellar_parameters/demo_model_fitting/model_fitting.ipynb)
+
+
