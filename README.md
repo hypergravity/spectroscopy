@@ -1,4 +1,4 @@
-# Optical spectroscopy
+# Optical stellar spectroscopy
 
 ## I. Reduction of raw spectra 
 to be updated.
