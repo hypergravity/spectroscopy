@@ -11,10 +11,9 @@ to be updated.
 1. Basics
     - Linux + Anaconda3 + Jupyter-notebook/Jupyter-Lab
     - Numerical computing (cross-correlation, convolution, non-linear regression, etc)
-1. Required packages: `laspec`, `astroslam` & `regli`
-    - `pip install -U git+git://github.com/hypergravity/laspec`
-    - `pip install -U git+git://github.com/hypergravity/astroslam`
-    - `pip install -U git+git://github.com/hypergravity/regli`
+1. Required packages: `laspec` & `astroslam`
+    - `pip install laspec` or `pip install -U git+git://github.com/hypergravity/laspec`
+    - `pip install astroslam` or `pip install -U git+git://github.com/hypergravity/astroslam` 
     
 Practice include
 - [CCF](https://nbviewer.jupyter.org/github/hypergravity/spectroscopy/blob/main/stellar_parameters/demo_ccf/demo_ccf.ipynb)
